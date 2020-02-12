@@ -1,10 +1,5 @@
 #!/bin/bash
-# created by Cyber
-
-red='\e[1;31m'
-green='\e[0;32m'
-NC='\e[0m'
- 
+# created by Cyber 
 if [ -e "/var/lib/premium-script" ]; then
 		clear
 	else
